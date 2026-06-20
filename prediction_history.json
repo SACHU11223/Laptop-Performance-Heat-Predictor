@@ -1,0 +1,342 @@
+[
+  {
+    "cpu": 20,
+    "ram": 30,
+    "disk": 10,
+    "temp": 55,
+    "health_score": 80,
+    "risk_level": "Low Risk",
+    "timestamp": "2026-06-20 01:55:45"
+  },
+  {
+    "cpu": 20,
+    "ram": 30,
+    "disk": 10,
+    "temp": 55,
+    "health_score": 80,
+    "risk_level": "Low Risk",
+    "timestamp": "2026-06-20 01:57:45"
+  },
+  {
+    "cpu": 20,
+    "ram": 30,
+    "disk": 10,
+    "temp": 95,
+    "health_score": 80,
+    "risk_level": "Low Risk",
+    "timestamp": "2026-06-20 01:57:56"
+  },
+  {
+    "cpu": 51,
+    "ram": 52,
+    "disk": 54,
+    "temp": 95,
+    "health_score": 47,
+    "risk_level": "High Risk",
+    "timestamp": "2026-06-20 01:58:38"
+  },
+  {
+    "cpu": 45,
+    "ram": 60,
+    "disk": 35,
+    "temp": 55,
+    "health_score": 53,
+    "risk_level": "High Risk",
+    "timestamp": "2026-06-20 02:33:09"
+  },
+  {
+    "cpu": 16,
+    "ram": 60,
+    "disk": 20,
+    "temp": 55,
+    "health_score": 69,
+    "risk_level": "Medium Risk",
+    "timestamp": "2026-06-20 02:33:22"
+  },
+  {
+    "cpu": 16,
+    "ram": 15,
+    "disk": 78,
+    "temp": 55,
+    "health_score": 65,
+    "risk_level": "Medium Risk",
+    "timestamp": "2026-06-20 02:33:32"
+  },
+  {
+    "cpu": 68,
+    "ram": 15,
+    "disk": 14,
+    "temp": 55,
+    "health_score": 64,
+    "risk_level": "Medium Risk",
+    "timestamp": "2026-06-20 02:33:45"
+  },
+  {
+    "cpu": 16,
+    "ram": 68,
+    "disk": 14,
+    "temp": 55,
+    "health_score": 69,
+    "risk_level": "Medium Risk",
+    "timestamp": "2026-06-20 02:33:58"
+  },
+  {
+    "cpu": 45,
+    "ram": 60,
+    "disk": 35,
+    "temp": 55,
+    "health_score": 53,
+    "risk_level": "High Risk",
+    "timestamp": "2026-06-20 02:38:06"
+  },
+  {
+    "id": "cbca5de2",
+    "timestamp": "2026-06-20 11:46:11",
+    "health_score": 40.1,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "emoji": "\ud83d\udd34",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "50%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "024dbc98",
+    "timestamp": "2026-06-20 12:13:27",
+    "health_score": 40.5,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "emoji": "\ud83d\udd34",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "45%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "afe57557",
+    "timestamp": "2026-06-20 12:22:42",
+    "health_score": 40.5,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "emoji": "\ud83d\udd34",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "45%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "52620cf8",
+    "timestamp": "2026-06-20 13:59:57",
+    "health_score": 40.5,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "45%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "5a0a90d1",
+    "timestamp": "2026-06-20 14:01:45",
+    "health_score": 40.5,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "45%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "ffdef30c",
+    "timestamp": "2026-06-20 15:14:08",
+    "health_score": 40.7,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "42%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 9,
+      "Crashed Apps": 3,
+      "Device Model": "Other",
+      "Processor": "Intel Core i5",
+      "Graphics": "Apple M2 GPU"
+    }
+  },
+  {
+    "id": "63d26cc1",
+    "timestamp": "2026-06-20 15:26:07",
+    "health_score": 40.5,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "45%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "4c4fc023",
+    "timestamp": "2026-06-20 15:36:08",
+    "health_score": 40.5,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "45%",
+      "RAM Usage": "60%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "7d6e068b",
+    "timestamp": "2026-06-20 15:37:05",
+    "health_score": 36.4,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "74%",
+      "RAM Usage": "65%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "ec425c49",
+    "timestamp": "2026-06-20 15:37:47",
+    "health_score": 33.0,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "79%",
+      "RAM Usage": "80%",
+      "Disk I/O": "84%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "59b0f1eb",
+    "timestamp": "2026-06-20 16:44:00",
+    "health_score": 49.9,
+    "health_status": "Poor",
+    "risk_level": "High",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "14%",
+      "RAM Usage": "31%",
+      "Disk I/O": "40%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "cb501908",
+    "timestamp": "2026-06-20 16:45:24",
+    "health_score": 51.0,
+    "health_status": "Fair",
+    "risk_level": "Medium",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "14%",
+      "RAM Usage": "11%",
+      "Disk I/O": "11%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  },
+  {
+    "id": "c589cd34",
+    "timestamp": "2026-06-20 16:46:33",
+    "health_score": 29.1,
+    "health_status": "Critical",
+    "risk_level": "Critical",
+    "input_summary": {
+      "Device Age": "2 years",
+      "CPU Cores": 4,
+      "CPU Usage": "93%",
+      "RAM Usage": "92%",
+      "Disk I/O": "92%",
+      "Running Apps": 8,
+      "Crashed Apps": 0,
+      "Device Model": "Other",
+      "Processor": "Other",
+      "Graphics": "Other"
+    }
+  }
+]
