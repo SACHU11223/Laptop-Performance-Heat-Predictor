@@ -95,7 +95,7 @@ TODO: Add live deployed demo link.
 Example:
 
 ```text
-https://your-demo-link.com
+https://huggingface.co/spaces/SachinSharma01/laptop-performance-heat-predictor
 ```
 
 If the project is not deployed yet, run it locally using the installation steps below.
